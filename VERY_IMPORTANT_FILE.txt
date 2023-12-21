@@ -2,4 +2,4 @@
 discrete but DANGEROUS piece of code
 
 
-Completely unrelated change
+Completely unrelated change, with some improvement
