@@ -1,5 +1,5 @@
-# Dangerous!!
-discrete but DANGEROUS piece of code
+# Safe =)
+code not dangerous anymore
 
 
 Completely unrelated change
